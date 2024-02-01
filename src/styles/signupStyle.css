@@ -1,0 +1,88 @@
+.inputStyle {
+    width: 304px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #333D42;
+    background: #F9FAFF;
+    padding-left: 10px;
+  }
+  
+.textStyle {
+    color: #333D42;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    align-items: left;
+    text-align: left;
+
+  }
+  
+.buttonStyle {
+    width: 200px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #11264F;
+    box-shadow: 4px 4px 6px 0px rgba(171, 194, 212, 0.60), -4px -4px 6px 0px rgba(255, 255, 255, 0.50);
+  }
+
+
+
+.titleStyle {
+    display: flex;
+    width: 294px;
+    height: 46px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #333D42;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 20;
+    margin-bottom: 0%;
+  }
+
+  .titleStyle_2 {
+    display: flex;
+    width: 294px;
+    height: 46px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #333D42;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 0%;
+    margin-bottom: 10%;
+  }
+
+  .buttonText {
+    display: flex;
+    width: 200px;
+    height: 50px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #F9FAFF;
+    text-align: center;
+    font-family: 'Chakra Petch';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 0%;
+  }
+
+  
+  
